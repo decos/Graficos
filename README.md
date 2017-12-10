@@ -36,4 +36,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1. Crear el proyecto `graficos`
 	- ng new graficos
 
-2.
+2. Añadir bootstrap al proyecto
+
