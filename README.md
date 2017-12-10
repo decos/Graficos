@@ -54,9 +54,28 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 4. Importar `ChartsModule` en el modulo principal del proyecto y añadirlo en `imports`
 	
+## GRÁFICO DE LINEAS
 
+	Recurso:
+		- https://valor-software.com/ng2-charts/#lineChart
 
+1. Crear el componente `linea`
+	- ng g c components/linea
 
+2. Codear el componente `linea` utilizando el primer recurso
 
+3. Codear la vista del componente `linea`
+
+## GRÁFICO DE BARRAS
+
+	Recurso:
+		- https://valor-software.com/ng2-charts/#barChart
+
+1. Crear el componente `barra`
+	- ng g c components/linea
+
+2. Codear el componente `barra` utilizando el primer recurso
+
+3. Codear la vista del componente `barra`
 
 
