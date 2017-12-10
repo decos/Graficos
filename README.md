@@ -72,10 +72,39 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 		- https://valor-software.com/ng2-charts/#barChart
 
 1. Crear el componente `barra`
-	- ng g c components/linea
+	- ng g c components/barra
 
 2. Codear el componente `barra` utilizando el primer recurso
 
 3. Codear la vista del componente `barra`
+
+## GRÁFICO DE DONAS
+
+	Recurso:
+		- https://valor-software.com/ng2-charts/#doughnutChart
+
+1. Crear el componente `dona`
+	- ng g c components/dona
+
+2. Codear el componente `dona` utilizando el primer recurso
+
+3. Codear la vista del componente `dona`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
