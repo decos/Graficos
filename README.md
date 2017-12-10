@@ -36,5 +36,27 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1. Crear el proyecto `graficos`
 	- ng new graficos
 
-2. Añadir bootstrap al proyecto
+2. Añadir bootstrap al proyecto, solo el estilo (CSS)
+
+## INSTALACIONES NECESARIAS - ng2-chartss
+
+	Recursos: 
+		- https://valor-software.com/ng2-charts/
+		- https://cdnjs.com/libraries/Chart.js
+
+1. Para instalar `ng2-charts` usando npm realizar los siguientes pasos:
+	- npm install ng2-charts --save
+
+2. Copiar la libreria `Chart.js` (segundo recurso)
+	- https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.bundle.min.js
+
+3. Añadir el script en el fichero `index.html` del proyecto
+
+4. Importar `ChartsModule` en el modulo principal del proyecto y añadirlo en `imports`
+	
+
+
+
+
+
 
