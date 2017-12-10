@@ -38,7 +38,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 2. Añadir bootstrap al proyecto, solo el estilo (CSS)
 
-## INSTALACIONES NECESARIAS - ng2-chartss
+## INSTALACIONES NECESARIAS - ng2-charts
 
 	Recursos: 
 		- https://valor-software.com/ng2-charts/

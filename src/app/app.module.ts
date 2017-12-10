@@ -6,11 +6,13 @@ import { ChartsModule } from 'ng2-charts';
 
 
 import { AppComponent } from './app.component';
+import { LineaComponent } from './components/linea/linea.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LineaComponent
   ],
   imports: [
     BrowserModule,
